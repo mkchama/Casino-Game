@@ -1,0 +1,5 @@
+-cp <junit-jar-file>;. ./core/Card_Test.java
+-cp <junit-jar-file>;. ./core/Deck_Test.java
+-cp <junit-jar-file>;. ./core/Hand_Test.java
+-cp <junit-jar-file>;. ./core/Player_Test.java
+-cp <junit-jar-file>;. ./core/CoreTestSuite.java
