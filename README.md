@@ -32,6 +32,3 @@ Now run the game until you get the option to go to War. You will only be able to
 go to War if you have enough of a balance to bet twice your original bet. After the round
 go back to the main menu and back into blackjack to see that the balance has 
 indeed transfered over.
-
-// Url for the gitlab
-https://gitlab.cpsc.ucalgary.ca/zarif.qazi1/t11-t04-project.git
