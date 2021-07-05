@@ -1,4 +1,4 @@
-![Alt Text](https://imgur.com/0L6IoQv)
+![Black Jack Demo](https://i.imgur.com/0L6IoQv.gif)
 
 
 // Instructions to compile: 
